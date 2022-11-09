@@ -1,0 +1,16 @@
+.background {
+  background: url(../assets/img/image.jpg);
+  display: flex;
+  width: 100%;
+  height: 500px;
+  margin-bottom: 30px;
+}
+
+.Title .title-detail {
+  margin-top: 250px;
+}
+
+.title-detail h1 {
+  font-size: 40px;
+  color: rgb(255, 255, 255);
+}
